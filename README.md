@@ -107,9 +107,12 @@
 
 #### Дополнительные (для систематизации):
 
+Книги:
+
+- Architect Elevator (G. Horpe), Фаулер об паттернах enterprise архитуктуры (подобрать что попроще)
+
 Мнения:
 
-- Architect Elevator (G. Horpe)
 - [Red Hat](https://quod.lib.umich.edu/j/jep/3336451.0004.304?view=text;rgn=main)
 - [How Microsoft lost the API-war](https://www.joelonsoftware.com/2004/06/13/how-microsoft-lost-the-api-war/)
 - [Per Stenius, Paavo Räisänen](http://www.reddal.com/insights/strategies-for-driving-the-transformation-in-the-software-industry)
@@ -154,6 +157,7 @@ ERP:
 - Как эпидемия короновируса повлияет на ИТ-отрасль (в положительную и отрицательную сторону)
 - Разбор крупных инцидентов в обалсти наджености (например, TSB)
 - Кейс Accenture vs Hertz (судебные разбирательства по невыполненному контракту, публичные данные).
+- Антипаттерны работы DevOps команд (http://devopstopologies.ru/)
 
 ### Примеры кода
 

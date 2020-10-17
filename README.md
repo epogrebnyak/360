@@ -93,6 +93,7 @@
 - спецификация, ТЗ (техническое задание), TOR (terms of reference)
 - UML (диаграммы)
 - LoC (lines of code)
+- Agile Manifesto
 
 Литература и материалы
 -----------------------
